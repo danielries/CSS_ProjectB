@@ -1,13 +1,13 @@
-baseURL = "https://peterampazzo.github.io/project-website-template/"
-title = "Project Title"
-description = "This is a project description"
+baseURL = "https://danielries.github.io/CSS_ProjectB/"
+title = "The Actor Network"
+description = "Welcome to our project page! Here you can find all the information about our project."
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Daniel Ries", "Christian Ong Hansen", "Kavus Latifi Yaghin"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    github = "https://github.com/danielries/CSS_ProjectB"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
