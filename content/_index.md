@@ -28,4 +28,4 @@ A major takeaway from the text analysis was that examining central words in each
 But there is still one question left to be answered for a young and aspiring actor: How do I become a succesful actor? Looking at succesful and unsuccesful communities show a specific pattern. If you want to be popular go to english-speaking countries (US or UK) and stay away from TV movies and animation films. On the other hand, if you want to be a highly rated actor move to Japan or Korea and work with animation films. 
 
 
-To delve further into our findings and to get a better understanding of the project, check out the other pages on the website and for more technical details, see the [Explainer Notebook](test.html).
+To delve further into our findings and to get a better understanding of the project, check out the other pages on the website and for more technical details, see the [Explainer Notebook](explainer_notebook.html).
