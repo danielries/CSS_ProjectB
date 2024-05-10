@@ -4,7 +4,7 @@ description = "Welcome to our project page! Here you can find all the informatio
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Daniel Ries", "Christian Ong Hansen", "Kavus Latifi Yaghin"]
+    authors = ["Daniel Ries (s214641)", "Christian Ong Hansen (s204109)", "Kavus Latifi Yaghin (s214601)"]
     notebook = "/explainer_notebook.html"
     data = "https://drive.google.com/drive/folders/1f-FWCuT5DW8XDMXibfR9rpaIwO-0OyWo?usp=sharing"
     github = "https://github.com/danielries/CSS_ProjectB"
