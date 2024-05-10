@@ -21,7 +21,6 @@ It is worth noting that we here are only going to showcase the significant ones 
 | Age              | Age of the actor      |
 | Actor Popularity | Popularity of the actor |
 | Movies Acted In  | Movies the actor has acted in |
-| Genres Acted In  | Genres the actor has acted in |
 
 </div>
 
