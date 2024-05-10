@@ -4,17 +4,17 @@ description = "Welcome to our project page! Here you can find all the informatio
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Daniel D. Ries", "Christian Ong Hansen", "Kavus er en lille dreng", "Mikkel Højlund"]   
-    notebook = "/explainer-notebook.html"
-    data = "https://drive.google.com"
+    authors = ["Daniel Ries", "Christian Ong Hansen", "Kavus Latifi Yaghin"]
+    notebook = "/test.html"
+    data = "https://drive.google.com/drive/folders/1f-FWCuT5DW8XDMXibfR9rpaIwO-0OyWo?usp=sharing"
     github = "https://github.com/danielries/CSS_ProjectB"
     [[params.nav]]
-        label = "Data"
+        label = "1. Data"
         link = "/data-description"
     [[params.nav]]
-        label = "Network"
+        label = "2. Network"
         link = "/network-analysis"
     [[params.nav]]
-        label = "Text"
+        label = "3. Text"
         link = "/text-analysis"
 
