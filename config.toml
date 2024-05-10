@@ -9,6 +9,9 @@ theme = "theme"
     data = "https://drive.google.com/drive/folders/1f-FWCuT5DW8XDMXibfR9rpaIwO-0OyWo?usp=sharing"
     github = "https://github.com/danielries/CSS_ProjectB"
     [[params.nav]]
+        label = "Home"
+        link = "/"
+    [[params.nav]]
         label = "1. Data"
         link = "/data-description"
     [[params.nav]]

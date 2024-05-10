@@ -11,8 +11,8 @@ By analyzing data from popular actors and their collaborations within the networ
 
 <div style="display: flex;">
     <img src="/images/marvel.png" width="200" height="200">
+    <img src="/images/anime_dj.png" width="200" height="200">
     <img src="/images/harry_potter.png" width="200" height="200">
-    <img src="/images/starwars.png" width="200" height="200">
 </div>
 
 To find the answer to our question, we need data. The data source for this project is The Movie Database (TMDB), from where all desired information about the most popular actors could be found. On top of that, TMDB also provides information about all the movies that these actors have been in. So with the data in place, we can create the actual network.
@@ -21,14 +21,11 @@ And it's a big one! The top 5000 actors in the world are put in the network and 
 
 By looking into these characteristics, a lot of new insights can be made. One interesting finding is that the birthplace and rating of the actors seem to play a role when looking at the communities in the network. This suggests that popular actors from the United States tend to collaborate more with other Americans and that actors are more likely to work with other similarly rated actors.
 
-After diving into the network, another part of this project involves text analysis. Given the context of movies, analyzing movie abstracts felt like a natural next step. By grouping the popular actors into distinct communities and collecting the abstracts of the films they have appeared in, text analysis could be done. Looking for the most common words used in these movie abstracts for the best communities, may reveal some common features for the communities. 
+After diving into the network, another part of this project involves text analysis. Given the context of movies, analyzing movie abstracts felt like a natural next step. By grouping the popular actors into distinct communities and collecting the abstracts of the films they have appeared in, text analysis could be done. Looking for both the most common and central words used in these movie abstracts for the best communities, may reveal some common features for the communities. 
 
-By looking at the words in the different communities - we actually found distinct communities that could be recognized through the words used in the movie abstracts. 
+A major takeaway from the text analysis was that examining central words in each community made it possible to identify the types of movies they primarily worked on. AI allowed us to generate movie posters inspired by words from distinct communities like Japanese animation, Marvel Studios, and Harry Potter films. You can see them at the top of the page.
 
-
-
-
+But there is still one question left to be answered for a young and aspiring actor: How do I become a succesful actor? Looking at succesful and unsuccesful communities show a specific pattern. If you want to be popular go to an english-speaking countries (US or UK) and stay away from TV movies and animation films. On the other hand, if you want to be a highly rated actor move to Japan or Korea and work with animation films. 
 
 
-
-## [Explainer Notebook](test.html)
+To delve further into our findings and to get a better understanding of the project, check out the other pages on the website and for more technical details, see the [Explainer Notebook](test.html).
